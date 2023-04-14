@@ -37,12 +37,7 @@
   <h3 align="center">TEMPLATE ERIK LEONEL</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    An awesome README template to jumpstart your projects!
-    An awesome README template to jumpstart your projects!
-    An awesome README template to jumpstart your projects!
-    An awesome README template to jumpstart your projects!
-    An awesome README template to jumpstart your projects!
+que pedo compa aqui andamos
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
